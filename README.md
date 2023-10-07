@@ -11,7 +11,7 @@ This project is a simple temperature converter that allows users to convert temp
 - JavaScript: Used for the temperature conversion logic and real-time updating.
 
 ## How to Use
-1. Open `index.html` in your web browser.
+1. Open ` https://sne01.github.io/Temperture-converter/` in your web browser.
 2. Enter the temperature in Celsius in the input field.
 3. The converted temperature in Fahrenheit and Kelvin will be displayed automatically as you type.
 
